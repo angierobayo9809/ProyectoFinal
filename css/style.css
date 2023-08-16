@@ -1,0 +1,39 @@
+.container {
+    max-width: 90%;
+    margin:0 auto;
+    margin-top: 5%;
+} 
+
+body {
+    background-color: white;
+}  
+
+.container table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.contenedor th, .contenedor td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+    width: 100%;
+}
+
+.card-header{
+    background-color: #AED6F1;
+    font-weight: bold;
+    color:black;
+}
+
+.card-body{
+    background-color: whitesmoke;
+}
+
+.table{
+    width: 50%;
+}
+
+td{
+    gap:1px;
+}
